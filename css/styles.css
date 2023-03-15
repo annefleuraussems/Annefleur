@@ -7,7 +7,7 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	color: #F31398;
 	background-color: #F291D7;
 }
 
@@ -55,5 +55,26 @@ body {
 
 h2 {font-family: 'Montserrat', sans-serif;}
 h4  {font-family: 'Montserrat', sans-serif;}
+
+#mydiv{
+	color: deepskyblue;
+}
+
+#mydiv2{
+	color:deepskyblue
+}
+
+
+#mydiv3{
+	color:deepskyblue
+}
+
+#mydiv4{color:deepskyblue}
+#mydiv5{color:deepskyblue}
+
+#mydiv6{color:deepskyblue}
+
+.white-text{color:deepskyblue}
+
 
 
